@@ -39,7 +39,7 @@ app/
 1. Clone o repositório:
 
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/d4nielantoni/dynamic-forms-api
 cd teste_tecnico_fbgenios
 ```
 
